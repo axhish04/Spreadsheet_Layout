@@ -2,7 +2,7 @@
 
 This project is a static, front-end-only spreadsheet-style UI built with **React 18**, **TypeScript**, **Tailwind CSS**, and **TanStack Table (react-table v8)**. It mimics a Google Sheets/Excel-like interface based on a Figma design provided by Inscripts as part of the intern assignment.
 
-![Image]![Screenshot 2025-07-04 164918](https://github.com/user-attachments/assets/22543203-d7f3-4625-a77e-1faab9383594)
+
 
 
 ---
